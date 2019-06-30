@@ -9,7 +9,7 @@ arduino-yun-shield)
 	LINUXSPI=linuxspi_nuy
 	;;
 arduino-yun)
-	LINUXSPI=linuxspi_yun
+	LINUXSPI=linuxspi_arduino-yun
 	;;
 esac
 
